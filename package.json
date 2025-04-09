@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "intuit-oauth": "^4.2.0",
+    "node-quickbooks": "^2.0.45"
+  }
+}
